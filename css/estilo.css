@@ -1,3 +1,24 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+
+	:root {
+		/* Colors */
+		--primary-color: #fb9e02;
+		--primary-light-color: rgba(251, 158, 2, 0.2);
+		--secundary-color: #393838;
+		--light-color: #fff;
+		--grey-color: #eeeeee;
+		--wpp-color: #27aa4e;
+	  
+		/* Fonts */
+		--mont: "Montserrat", sans-serif;
+		--opens: "Open Sans", sans-serif;
+		--lato: "Lato", sans-serif;
+	  }
+
+
 html {
 	font-size: 1rem;
   }
@@ -19,3 +40,4 @@ html {
 	  font-size: 1.6rem;
 	}
   }
+  
